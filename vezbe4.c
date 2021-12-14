@@ -43,3 +43,6 @@ int main()
     }
     return 0;
 }
+
+
+//jebem ti mamu
