@@ -48,3 +48,4 @@ int main()
 //jebem ti mamu
 //ovo je prva izmena
 
+//i ja tebi
